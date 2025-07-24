@@ -1,33 +1,31 @@
 # 🌐 DOMination - JavaScript API Dashboard
 
-DOMination is a JavaScript-based dashboard showcasing real-time data from 8 public APIs. It's a fun way to explore working with APIs and updating the DOM using vanilla JavaScript.
+**DOMination** is a JavaScript-based dashboard showcasing real-time data from 8 public APIs. It's a fun and interactive project that demonstrates working with APIs and updating the DOM using vanilla JavaScript.
 
 ## 🔥 Live Preview
 
-Coming soon via GitHub Pages...
+🌐 [Coming soon via GitHub Pages](https://github.com/Janderson125/DOMination)
 
 ## 🚀 Features
 
-- 🐶 Random Dog Image (Dog API)
-- 🐱 Random Cat Image (Cat API)
-- 🌤️ NYC Weather (Open-Meteo API)
-- 💱 Currency Exchange Rate USD→EUR (ExchangeRate.host)
-- 🎬 Trending Movies (TMDB)
-- 👨‍💻 GitHub Profile Info (GitHub API)
-- 😂 Random Joke (JokeAPI)
-- 📚 Random Public API (Public APIs Directory)
+| Section | Description |
+|--------|-------------|
+| 🐶 **Dog API** | Displays a random dog image |
+| 🐱 **Cat API** | Displays a random cat image |
+| 🌤️ **Weather API** | Shows current temperature in New York City |
+| 💱 **Currency Exchange** | Shows current USD to EUR exchange rate |
+| 🎬 **TMDB API** | Lists trending movies |
+| 👨‍💻 **GitHub API** | Shows GitHub profile info for a user |
+| 😂 **Joke API** | Displays a random joke |
+| 📚 **Public APIs Directory** | Shows a random featured public API |
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
-- HTML5 + CSS3
-- Vanilla JavaScript
-- REST APIs
-- Responsive Layout (CSS Grid)
+- ✅ HTML5
+- ✅ CSS3 (CSS Grid for layout)
+- ✅ JavaScript (ES6+)
+- ✅ `fetch()` and `async/await`
+- ✅ Public REST APIs
 
-## 📦 Getting Started
+## 📂 Project Structure
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/Janderson125/DOMination.git
-cd DOMination
